@@ -1,4 +1,4 @@
-# eowfenth
+#
 
 
 Nowadays interests
@@ -7,3 +7,4 @@ Nowadays interests
 - Functional Programming
 - Learning
 - Bakery
+- Shitty writings of my fantasy characters and universes
