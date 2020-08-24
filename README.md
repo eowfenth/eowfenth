@@ -9,8 +9,10 @@
 - Bakery
 - Shitty writings of my fantasy characters and universes
 
-#### Desafios que fiz ou estou fazendo. 
+### Desafios que fiz ou estou fazendo. 
 
-[Desafio Back-end Pleno](https://github.com/eowfenth/delivery-much-challenge)
+- Delivery Much - Desafio Back-end Pleno [*](https://github.com/eowfenth/delivery-much-challenge)
+  - Duração: 5 horas +/-
 
-[Desafio Back-end Pleno/Senior](https://github.com/eowfenth/warren-brasil-challenge)
+- Warren Brasil - Desafio Back-end Pleno/Senior [*](https://github.com/eowfenth/warren-brasil-challenge)
+  - Duração: *
