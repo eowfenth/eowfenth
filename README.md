@@ -9,7 +9,7 @@
 - Bakery
 - Shitty writings of my fantasy characters and universes
 
-### Desafios que fiz ou estou fazendo. 
+### Desafios
 
 - Delivery Much - Desafio Back-end Pleno [*](https://github.com/eowfenth/delivery-much-challenge)
   - Duração: 5 horas +/-
